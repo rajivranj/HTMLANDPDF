@@ -1,7 +1,7 @@
-delete_merged_file: true
-output_dir: "docs"
 book_filename: "usermanual"
-view: https://github.com/rajivranj/ILO_SDMX_Constructor/blob/master/%s
+output_dir: "docs"
+delete_merged_file: true
+view: https://github.com/rajivranj/HTMLANDPDF/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
